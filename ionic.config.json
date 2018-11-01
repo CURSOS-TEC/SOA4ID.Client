@@ -1,0 +1,7 @@
+{
+  "name": "SOA4ID.Client",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
